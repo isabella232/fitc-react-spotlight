@@ -4,7 +4,9 @@
 
 A small example for the FITC React Spotlight showcasing how `ReactF1` works.
 
-![FITC React Example](./preview.gif)
+[![FITC React Example](./preview.gif)](http://jam3.github.io/fitc-react-spotlight/)
+
+[Click here to see it live](http://jam3.github.io/fitc-react-spotlight/)
 
 ## Usage
 
