@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "budo index.js --live --open",
-    "build": "browserify index.js > bundle.js"
+    "build": "browserify script.js -t babelify --outfile bundle.js"
   },
   "keywords": [],
   "repository": {
